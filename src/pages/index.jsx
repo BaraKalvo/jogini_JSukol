@@ -1,6 +1,6 @@
 import { render } from '@czechitas/render';
 import '../global.css';
-import './index.css';
+
 
 import { Header } from './components/Header';
 import { Intro } from './components/Intro';
